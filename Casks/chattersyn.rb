@@ -8,7 +8,7 @@
 # zap — quit before trash).
 cask "chattersyn" do
   version "0.9.1"
-  sha256 "077f61a775144aaa76834a1c310801059b36fdd8f653c0f231ff67e2da9020ae"
+  sha256 "e18f7a0100dda7231b25abf07acfaeeccdf8cb2bba409814e989e1b9f3ec275d"
 
   url "https://github.com/smitht06/red-chattersyn/releases/download/v#{version}/chattersyn-#{version}-macos-arm64.zip"
   name "ChatterSyn"
