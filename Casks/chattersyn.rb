@@ -7,8 +7,8 @@
 # url/name/desc/homepage, depends_on arch before depends_on macos, app,
 # zap — quit before trash).
 cask "chattersyn" do
-  version "0.10.2"
-  sha256 "d8b079515e3c293635b9707a2360b28d5a4e3b7bd496f0e294c5739691ecbfde"
+  version "0.10.3"
+  sha256 "d3af666bbc929a5fd0394ffc77cf45828a38770aeaad58ca4a31e1230b58f6c7"
 
   url "https://github.com/smitht06/red-chattersyn/releases/download/v#{version}/chattersyn-#{version}-macos-arm64.zip"
   name "ChatterSyn"
